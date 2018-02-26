@@ -1,1 +1,5 @@
 nešto tipkam da ima teksta, blabla
+
+Unos promjene u prvibranch
+
+For linux, use xdg-open. open is for Mac OS. open in linux is an name alias of openvt (open virtual terminal). 
